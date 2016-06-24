@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>CurrenciesToday.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -23,6 +28,11 @@
 			<true/>
 		</dict>
 		<key>08B8C3DB1D1D51DC00A18133</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>08E157B71D1D5F8900FBD1AF</key>
 		<dict>
 			<key>primary</key>
 			<true/>
